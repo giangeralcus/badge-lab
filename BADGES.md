@@ -23,3 +23,4 @@
 - silver 19
 - silver 20
 - silver 21
+- silver 22
