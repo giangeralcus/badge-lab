@@ -42,3 +42,4 @@
 - silver 38
 - silver 39
 - silver 40
+- Gold milestone 41 (Pull Shark 64 tier grind)
