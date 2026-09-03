@@ -28,3 +28,4 @@
 - silver 24
 - silver 25
 - silver 26
+- silver 27
