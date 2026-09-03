@@ -36,3 +36,4 @@
 - silver 32
 - silver 33
 - silver 34
+- silver 35
