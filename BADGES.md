@@ -41,3 +41,4 @@
 - silver 37
 - silver 38
 - silver 39
+- silver 40
